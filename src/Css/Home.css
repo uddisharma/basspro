@@ -5,4 +5,124 @@
 
 .brands img {
     height: 80px;
+    margin: 0px 0px 40px 0px;
+}
+
+.main-cont {
+    width: 90%;
+    margin: auto;
+    background: url('https://assetshare.basspro.com/content/dam/bps-general-assets/web/site-elements/home-page/club/images/club-background.jpg');
+    padding: 50px 20px;
+}
+
+.first {
+    font-size: 20px;
+    color: white;
+}
+
+.heading {
+    font-size: 50px;
+    color: white;
+    font-weight: bolder;
+    padding-bottom: 30px;
+    /* line-height: 100px; */
+}
+
+.grayline {
+    color: gray;
+}
+
+.heading2 {
+    font-size: 35px;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.second {
+    font-size: 20px;
+    color: grey;
+    padding-bottom: 30px;
+}
+
+.image {
+    margin-top: 50px;
+}
+
+.hot {
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.card {
+    width: 80%;
+    margin: auto;
+    text-decoration: underline;
+    color: grey;
+}
+
+.card2 {
+    width: 80%;
+    margin: auto;
+    text-decoration: underline;
+    color: yellow;
+}
+
+.exl {
+    background-image: url('https://assets.basspro.com/image/upload/c_scale,f_auto,q_auto,w_1440/v1673968097/DigitalCreative/2023/Homepage/wk2-1-11/cep-banner.png');
+    padding: 50px 10px 50px 10px;
+    margin: 50px 0px 50px 0px;
+}
+
+.exl h1 {
+    font-size: 40px;
+    color: yellow;
+    text-align: center;
+    font-weight: 800;
+}
+
+.exl p {
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+
+.cat {
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin: 30px 0px 30px 0px;
+}
+
+.learn {
+    background-color: yellow;
+    padding: 20px 0px 20px 0px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.learn img {
+    display: block;
+    margin: auto;
+    height: 50px;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.bottom-left {
+    position: absolute;
+    bottom: 50px;
+    left: 16px;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.bottom {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
 }
